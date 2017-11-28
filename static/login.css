@@ -72,7 +72,7 @@
 }
 
 .login-text{
-	background: url(../img/USERNAME.png);
+	background: url(../USERNAME.png);
 	background-repeat: no-repeat;
 	background-size: 170px;
 	height: 25px;
@@ -90,7 +90,7 @@
 }
 
 .password-text{
-	background: url(../img/PASSWORD.png);
+	background: url(../PASSWORD.png);
 	background-repeat: no-repeat;
 	background-size: 170px;
 	height: 25px;
